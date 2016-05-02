@@ -1,0 +1,2 @@
+include ':slidingMenuLib'
+include ':mainActivity'

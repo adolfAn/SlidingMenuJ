@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_frame_background.png",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/res/drawable-xhdpi/ic_frame_background.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_main_title_bg.png",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/res/drawable-xhdpi/ic_main_title_bg.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_bg.jpg",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/res/drawable-xhdpi/ic_bg.jpg"
+    }
+]

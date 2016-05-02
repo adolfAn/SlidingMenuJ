@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="21.0.3$Generated" generated="true"><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/src/main/res"/><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/build/generated/res/rs/debug"/><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/src/debug/res"/></dataSet><dataSet config="21.0.3" from-dependency="true" generated-set="21.0.3$Generated"><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/src/main/res"><file name="slidingmenumain" path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/src/main/res/layout/slidingmenumain.xml" qualifiers="" type="layout"/><file path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="roundedimageview">
+        <attr format="dimension" name="border_thickness"/>
+        <attr format="color" name="border_color"/>
+        </declare-styleable><declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="reference" name="viewAbove"/>
+        <attr format="reference" name="viewBehind"/>
+        <attr format="dimension" name="behindOffset"/>
+        <attr format="dimension" name="behindWidth"/>
+        <attr format="float" name="behindScrollScale"/>
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr format="reference" name="shadowDrawable"/>
+        <attr format="dimension" name="shadowWidth"/>
+        <attr format="boolean" name="fadeEnabled"/>
+        <attr format="float" name="fadeDegree"/>
+        <attr format="boolean" name="selectorEnabled"/>
+        <attr format="reference" name="selectorDrawable"/>
+    </declare-styleable></file><file path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/src/main/res/values/ids.xml" qualifiers=""><item name="selected_view" type="id"/></file></source><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/build/generated/res/rs/debug"/><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable><declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_color"/></declare-styleable></configuration></mergedItems></merger>

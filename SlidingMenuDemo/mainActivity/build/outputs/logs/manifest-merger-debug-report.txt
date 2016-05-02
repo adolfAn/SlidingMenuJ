@@ -1,0 +1,68 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [SlidingMenuDemo:slidingMenuLib:unspecified] /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/build/intermediates/exploded-aar/SlidingMenuDemo/slidingMenuLib/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:15:9-57
+activity#com.anhq.slidemenu.activity.MainActivity
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:17:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:22:27-74
+supports-screens
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:26:6-31:31
+	android:largeScreens
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:29:3-30
+	android:smallScreens
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:27:3-30
+	android:normalScreens
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:28:3-31
+	android:resizeable
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:30:3-28
+	android:anyDensity
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/mainActivity/src/main/AndroidManifest.xml:31:3-28

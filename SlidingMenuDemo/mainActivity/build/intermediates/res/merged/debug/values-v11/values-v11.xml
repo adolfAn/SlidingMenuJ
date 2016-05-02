@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AppBarLayout">
+		<attr format="boolean" name="enableElevation"/>
+	</declare-styleable>
+    <declare-styleable name="StatusBarHeaderView">
+		<attr format="reference" name="colorNormal"/>
+		<attr format="reference" name="colorDark"/>
+		<attr format="enum" name="enableMode">
+			<enum name="Kitkat" value="1"/>
+			<enum name="Lollipop" value="2"/>
+			<enum name="All" value="3"/>
+		</attr>
+	</declare-styleable>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+</resources>

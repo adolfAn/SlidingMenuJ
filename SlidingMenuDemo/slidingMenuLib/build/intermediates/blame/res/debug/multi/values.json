@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 42,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuDemo/slidingMenuLib/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            }
+        ]
+    }
+]

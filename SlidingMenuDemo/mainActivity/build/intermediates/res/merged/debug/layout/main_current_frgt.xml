@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/nickNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="作者更多作品链接：http://www.216k8.com/app/index.html"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:autoLink="web"
+        android:textColor="#333333"
+        android:textSize="18.0sp" />
+
+    <TextView
+        android:layout_above= "@id/nickNameTextView"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QQ群：227450110"
+        android:layout_centerHorizontal="true"
+        android:textColor="#3366cc"
+        android:textSize="18.0sp" />
+</RelativeLayout>
