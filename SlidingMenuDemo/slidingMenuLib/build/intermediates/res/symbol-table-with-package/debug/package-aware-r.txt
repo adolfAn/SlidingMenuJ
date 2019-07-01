@@ -1,0 +1,26 @@
+com.jeremyfeinstein.slidingmenu.lib
+attr behindOffset
+attr behindScrollScale
+attr behindWidth
+attr border_color
+attr border_thickness
+attr fadeDegree
+attr fadeEnabled
+attr mode
+attr selectorDrawable
+attr selectorEnabled
+attr shadowDrawable
+attr shadowWidth
+attr touchModeAbove
+attr touchModeBehind
+attr viewAbove
+attr viewBehind
+id fullscreen
+id left
+id margin
+id right
+id selected_view
+id slidingmenumain
+layout slidingmenumain
+styleable SlidingMenu behindOffset behindScrollScale behindWidth fadeDegree fadeEnabled mode selectorDrawable selectorEnabled shadowDrawable shadowWidth touchModeAbove touchModeBehind viewAbove viewBehind
+styleable roundedimageview border_color border_thickness

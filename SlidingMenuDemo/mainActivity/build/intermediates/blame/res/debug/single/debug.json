@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable_showleft_selector.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable/showleft_selector.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_slidingmenumain.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/slidingMenuLib/build/intermediates/packaged_res/debug/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-hdpi_main_title_slidingmenu_left_normal.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-hdpi/main_title_slidingmenu_left_normal.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_main_rigth_frgt.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/layout/main_rigth_frgt.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-hdpi_main_title_slidingmenu_right_normal.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-hdpi/main_title_slidingmenu_right_normal.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xhdpi_ic_frame_background.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-xhdpi/ic_frame_background.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_main_current_frgt.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/layout/main_current_frgt.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_main_title.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/layout/main_title.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xhdpi_ic_bg.jpg.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-xhdpi/ic_bg.jpg"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-hdpi_main_title_slidingmenu_left_pressed.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-hdpi/main_title_slidingmenu_left_pressed.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-xhdpi_ic_main_title_bg.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-xhdpi/ic_main_title_bg.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_main_right_layout.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/layout/main_right_layout.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable_showright_selector.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable/showright_selector.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable_shadow.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_statusbar_height.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/layout/statusbar_height.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/drawable-hdpi_main_title_slidingmenu_right_pressed.png.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/drawable-hdpi/main_title_slidingmenu_right_pressed.png"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_main_left_frgt.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/layout/main_left_frgt.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/build/intermediates/res/merged/debug/layout_main_left_layout.xml.flat",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/SlidingMenuJ/SlidingMenuDemo/mainActivity/src/main/res/layout/main_left_layout.xml"
+    }
+]

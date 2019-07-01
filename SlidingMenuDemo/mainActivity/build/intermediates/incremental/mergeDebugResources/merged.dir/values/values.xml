@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="completely_transparent">#00000000</color>
+    <color name="text_white_shadow_color">#ff5a9487</color>
+    <color name="tools_box_bg">#ff333332</color>
+    <color name="white">#ffffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_elevation">12dp</dimen>
+    <dimen name="navigation_max_width">320dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_offset_left">0dp</dimen>
+    <dimen name="slidingmenu_offset_right">0dp</dimen>
+    <dimen name="statusbar_height">25dp</dimen>
+    <item name="selected_view" type="id"/>
+    <string name="app_name">anhq</string>
+    <string name="empty"/>
+    <string name="hello_world">Hello world!</string>
+    <style name="A1_Font">
+        <item name="android:textSize">19.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">@color/text_white_shadow_color</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        
+
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+    <declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="reference" name="viewAbove"/>
+        <attr format="reference" name="viewBehind"/>
+        <attr format="dimension" name="behindOffset"/>
+        <attr format="dimension" name="behindWidth"/>
+        <attr format="float" name="behindScrollScale"/>
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr format="reference" name="shadowDrawable"/>
+        <attr format="dimension" name="shadowWidth"/>
+        <attr format="boolean" name="fadeEnabled"/>
+        <attr format="float" name="fadeDegree"/>
+        <attr format="boolean" name="selectorEnabled"/>
+        <attr format="reference" name="selectorDrawable"/>
+    </declare-styleable>
+    <declare-styleable name="roundedimageview">
+        <attr format="dimension" name="border_thickness"/>
+        <attr format="color" name="border_color"/>
+        </declare-styleable>
+</resources>

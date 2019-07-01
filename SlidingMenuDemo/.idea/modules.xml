@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenuDemo.iml" filepath="$PROJECT_DIR$/SlidingMenuDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainActivity/mainActivity.iml" filepath="$PROJECT_DIR$/mainActivity/mainActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenuLib/slidingMenuLib.iml" filepath="$PROJECT_DIR$/slidingMenuLib/slidingMenuLib.iml" />
+    </modules>
+  </component>
+</project>
